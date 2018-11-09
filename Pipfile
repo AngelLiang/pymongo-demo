@@ -7,6 +7,9 @@ name = "pypi"
 pymongo = "*"
 
 [dev-packages]
+"flake8" = "*"
+jupyter = "*"
+"autopep8" = "*"
 
 [requires]
 python_version = "3.6"
