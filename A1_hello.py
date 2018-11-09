@@ -3,6 +3,7 @@
 https://api.mongodb.com/python/current/tutorial.html#tutorial
 """
 
+# %%
 from pymongo import MongoClient
 
 # Getting a Database
